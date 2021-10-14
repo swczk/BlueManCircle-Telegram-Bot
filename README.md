@@ -4,6 +4,7 @@ alt="Bot Picture">
 # Blue Man Circle (Telegram Bot)
 
 __Blue Man Circle__ is a simple Telegram Bot with advanced features to be hosted and managed mostly in a Google Spreadsheet.
+You can see the final result in the Telegram [here](https://t.me/BlueManCircle_bot).
 
 ## Screenshots
 
@@ -12,11 +13,11 @@ __Blue Man Circle__ is a simple Telegram Bot with advanced features to be hosted
 src="images/phoneScreenshots/screenshot1.png?raw=true">](images/phoneScreenshots/screenshot1.png?raw=true)
 
 ### Google Sheets Screenshots
-[<img width=200 alt="Screenshot 1"
+[<img width=500 alt="Screenshot 1"
 src="images/spreadsheetScreenshots/screenshot1.png?raw=true">](images/spreadsheetScreenshots/screenshot1.png?raw=true)
-[<img width=200 alt="Screenshot 2"
+[<img width=500 alt="Screenshot 2"
 src="images/spreadsheetScreenshots/screenshot2.png?raw=true">](images/spreadsheetScreenshots/screenshot2.png?raw=true)
-[<img width=200 alt="Screenshot 3"
+[<img width=500 alt="Screenshot 3"
 src="images/spreadsheetScreenshots/screenshot3.png?raw=true">](images/spreadsheetScreenshots/screenshot3.png?raw=true)
 
 ### Connect Telegram Bot to Google Sheets
@@ -44,6 +45,7 @@ This project is licensed under the GNU General Public License v3.0. See the
 [LICENSE](LICENSE) file for details.
 
 _The Bot Picture_
+
 Photo by [Ben Sweet](https://unsplash.com/@benjaminsweet) on [Unsplash](https://unsplash.com/) under this [License](https://unsplash.com/license).
 
 *BlueManCircle is a fork of [Connect-Telegram-Bot-to-Google-Sheets](https://github.com/MeneerOom/Connect-Telegram-Bot-to-Google-Sheets) by [MeneerOom](https://github.com/MeneerOom).*
