@@ -1,14 +1,23 @@
+<img align="left" width="80" height="80" src="images/icon.png"
+alt="Bot Picture">
+
 # Blue Man Circle (Telegram Bot)
 
 __Blue Man Circle__ is a simple Telegram Bot with advanced features to be hosted and managed mostly in a Google Spreadsheet.
 
 ## Screenshots
 
-# Telegram Screenshots
+### Telegram Screenshots
 [<img width=200 alt="Screenshot 1"
 src="images/phoneScreenshots/screenshot1.png?raw=true">](images/phoneScreenshots/screenshot1.png?raw=true)
 
-# Google Sheets Screenshots
+### Google Sheets Screenshots
+[<img width=200 alt="Screenshot 1"
+src="images/spreadsheetScreenshots/screenshot1.png?raw=true">](images/spreadsheetScreenshots/screenshot1.png?raw=true)
+[<img width=200 alt="Screenshot 2"
+src="images/spreadsheetScreenshots/screenshot2.png?raw=true">](images/spreadsheetScreenshots/screenshot2.png?raw=true)
+[<img width=200 alt="Screenshot 3"
+src="images/spreadsheetScreenshots/screenshot3.png?raw=true">](images/spreadsheetScreenshots/screenshot3.png?raw=true)
 
 ### Connect Telegram Bot to Google Sheets
 Connect Telegram Bot to Google Sheets via Google Apps Scripts. This video explains all steps in detail: https://www.youtube.com/watch?v=24EyItKfm50&list=PLGGHwNnXfci86dfqIVLc5l391SPk-RX1F
@@ -34,4 +43,7 @@ After you seccusfully communicated with the bot, your chat ID should be in the r
 This project is licensed under the GNU General Public License v3.0. See the
 [LICENSE](LICENSE) file for details.
 
-*This project is a fork of [Connect-Telegram-Bot-to-Google-Sheets](https://github.com/MeneerOom/Connect-Telegram-Bot-to-Google-Sheets) by [MeneerOom] (https://github.com/MeneerOom).*
+_The Bot Picture_
+Photo by [Ben Sweet](https://unsplash.com/@benjaminsweet) on [Unsplash](https://unsplash.com/) under this [License](https://unsplash.com/license).
+
+*BlueManCircle is a fork of [Connect-Telegram-Bot-to-Google-Sheets](https://github.com/MeneerOom/Connect-Telegram-Bot-to-Google-Sheets) by [MeneerOom](https://github.com/MeneerOom).*
