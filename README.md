@@ -4,20 +4,21 @@ alt="Bot Picture">
 # Blue Man Circle (Telegram Bot)
 
 __Blue Man Circle__ is a simple Telegram Bot with advanced features to be hosted and managed mostly in a Google Spreadsheet.
+
 You can see the final result in the Telegram [here](https://t.me/BlueManCircle_bot).
 
 ## Screenshots
 
 ### Telegram Screenshots
-[<img width=200 alt="Screenshot 1"
+[<img width=500 alt="Screenshot 1"
 src="images/phoneScreenshots/screenshot1.png?raw=true">](images/phoneScreenshots/screenshot1.png?raw=true)
 
 ### Google Sheets Screenshots
-[<img width=500 alt="Screenshot 1"
+[<img width=700 alt="Screenshot 1"
 src="images/spreadsheetScreenshots/screenshot1.png?raw=true">](images/spreadsheetScreenshots/screenshot1.png?raw=true)
-[<img width=500 alt="Screenshot 2"
+[<img width=700 alt="Screenshot 2"
 src="images/spreadsheetScreenshots/screenshot2.png?raw=true">](images/spreadsheetScreenshots/screenshot2.png?raw=true)
-[<img width=500 alt="Screenshot 3"
+[<img width=700 alt="Screenshot 3"
 src="images/spreadsheetScreenshots/screenshot3.png?raw=true">](images/spreadsheetScreenshots/screenshot3.png?raw=true)
 
 ### Connect Telegram Bot to Google Sheets
