@@ -170,3 +170,4 @@ function privateMessage(id, firstName, lastName, userName, text, data, keyBoard)
       sendMessage(id, contentErro, keyBoard);
   }
 }
+
