@@ -127,7 +127,7 @@ function feedback(id, firstName, lastName, userName, text, keyBoard) {
     var item = text.split("/feed");
     if(item[1] !== "") {
       sheet3.appendRow([dateNow, id, userName, firstName, lastName, item[1]]);
-      return sendMessage(id, "Thank you " + firstName + "for the feedback!", keyBoard);
+      return sendMessage(id, "Thank you " + firstName + " for the feedback!", keyBoard);
     } else {
       return sendMessage(id, "Blank Message!\nPlease try again later.", keyBoard);
     }
