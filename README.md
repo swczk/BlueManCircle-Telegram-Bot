@@ -1,7 +1,7 @@
-<img align="left" width="80" height="80" src="images/icon.png"
-alt="Bot Picture">
-
-# Blue Man Circle (Telegram Bot)
+<p align="center">
+  <img align="center" width="150px" height="150px" src="images/icon.png" alt="Bot Picture">
+  <h1 align="center">Blue Man Circle (Telegram Bot)</h1>
+</p>
 
 __Blue Man Circle__ is a simple Telegram Bot with advanced features to be hosted and managed mostly in a Google Spreadsheet.
 
@@ -51,6 +51,11 @@ Find your Google Sheet ID in the URL: `https://docs.google.com/spreadsheets/d/{I
 After you seccusfully communicated with the bot, your chat ID should be in the recording spreadsheet entries. Copy and past this into the `adminID` variable in the script
 
 ## License
+<p align="center">
+  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
+    <img width="100px" src="https://www.gnu.org/graphics/gplv3-127x51.png" align="center" alt="GNU GPLv3 Image"/>
+  </a>
+</p>
 
 This project is licensed under the GNU General Public License v3.0. See the
 [LICENSE](LICENSE) file for details.
