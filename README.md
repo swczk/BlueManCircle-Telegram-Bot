@@ -32,7 +32,9 @@ You can see the final result in the Telegram [here](https://t.me/BlueManCircle_b
   - You can revoice feedback from the users directly in the spreadsheet
 
 #### Connect Telegram Bot to Google Sheets
-Connect Telegram Bot to Google Sheets via Google Apps Scripts. This video explains all steps in detail: https://www.youtube.com/watch?v=24EyItKfm50&list=PLGGHwNnXfci86dfqIVLc5l391SPk-RX1F
+Connect Telegram Bot to Google Sheets via Google Apps Scripts. This video explains all steps in detail: 
+
+[How to create a Telegram Bot that interacts with a spreadsheet (Part 1 of 3)](https://youtu.be/pV1Jt3fjcq8)
 
 #### Step 1: Setting up the Telegram Bot
 - Go to [Telegram for Web](https://web.telegram.org/)
@@ -64,4 +66,4 @@ _The Bot Picture_
 
 Photo by [Ben Sweet](https://unsplash.com/@benjaminsweet) on [Unsplash](https://unsplash.com/) under this [License](https://unsplash.com/license).
 
-*BlueManCircle is a fork of [Connect-Telegram-Bot-to-Google-Sheets](https://github.com/MeneerOom/Connect-Telegram-Bot-to-Google-Sheets) by [MeneerOom](https://github.com/MeneerOom).*
+*BlueManCircle is based on [Mars Escobin](https://github.com/mariannetrizha)'s bot.*
